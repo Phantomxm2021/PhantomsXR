@@ -1,8 +1,17 @@
-<h1 align="center">Hi 👋, I'm Phantom</h1>
+# <h1 align="center">[Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Phantom](https://pphantomsxr.com/) </h1>
 <h3 align="center">We are a technology company focused on the XR.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Phantomxm2021" alt="Phantomxm2021" /> </p>
 
-<img title="cover" src="https://user-images.githubusercontent.com/82647748/150625189-72068b47-6f7f-40c1-b1a7-2535aa6652af.png" alt="d" width="256" data-align="center"></center>
+<div align="center">
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+
+![Visitor Count](https://profile-counter.glitch.me/{Phantomxm2021}/count.svg)
+  
+
+</div>
+
+
 
 We made the Free AR solution for everyone - - AR-MOD; 
 
@@ -10,9 +19,17 @@ AR-MOD means to provide stable, flexible, convenient and fast AR technology empo
 
 AR-MOD provides AR integration capabilities for enterprises or individuals. Users do not need to understand ARKit or ARCore or even rendering logic and information, but only need to focus on the realization of AR experience content.
 
-<img title="cover" src="https://user-images.githubusercontent.com/82647748/149517986-082a9691-a0c8-4802-bc24-99c5c9d2253d.png" alt="d" data-align="center"></center>
+https://user-images.githubusercontent.com/82647748/150115955-503785ab-1977-41bc-9da1-9d266e3c8b75.mp4
 
 
 
 
 
+
+[twitter]: https://twitter.com/Phantom74605762
+[youtube]: https://www.youtube.com/channel/UCf98zocVgz1FGF6jgx4N-oA
+[Hashnode]: https://ayushirawat.com
+[gmail]: https://gmail.com
+[linkedin]: https://www.linkedin.com/in/ayushi7rawat/
+[Medium]: https://medium.com/@ayushi7rawat
+[Facebook]: https://www.facebook.com/ayushi7rawat
