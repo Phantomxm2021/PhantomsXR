@@ -5,7 +5,9 @@
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src = "https://img.shields.io/badge/bilibili-%231DA1F2.svg?&style=for-the-badge&logo=bilibili&logoColor=white">][Bilibili] 
 
+  
 ![Visitor Count](https://profile-counter.glitch.me/{Phantomxm2021}/count.svg)
   
 
@@ -33,3 +35,4 @@ https://user-images.githubusercontent.com/82647748/150115955-503785ab-1977-41bc-
 [linkedin]: https://www.linkedin.com/in/ayushi7rawat/
 [Medium]: https://medium.com/@ayushi7rawat
 [Facebook]: https://www.facebook.com/ayushi7rawat
+[bilibili]: https://space.bilibili.com/1250162606
