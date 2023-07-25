@@ -5,8 +5,9 @@
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-[<img height="30" src = "https://img.shields.io/badge/bilibili-%231DA1F2.svg?&style=for-the-badge&logo=bilibili&logoColor=white">][Bilibili] 
-
+[<img height="30" src = "https://img.shields.io/badge/bilibili-%231DA1F2.svg?&style=for-the-badge&logo=bilibili&logoColor=white">][Bilibili]  
+[<img height="30" src = "https://img.shields.io/static/v1?style=for-the-badge&message=WeChat&color=222222&logo=WeChat&logoColor=07C160&label=">][Wechat] 
+[<img height="30" src = "https://img.shields.io/static/v1?style=for-the-badge&message=gmail&color=004788&logo=gmail&logoColor=FFFFFF&label=">][E-Mail] 
   
 ![Visitor Count](https://profile-counter.glitch.me/{Phantomxm2021}/count.svg)
   
@@ -36,3 +37,5 @@ https://user-images.githubusercontent.com/82647748/150115955-503785ab-1977-41bc-
 [Medium]: https://medium.com/@ayushi7rawat
 [Facebook]: https://www.facebook.com/ayushi7rawat
 [bilibili]: https://space.bilibili.com/1250162606
+[Wechat]: https://phantomsxr.com/social/wechat
+[E-Mail]: email:nswell@phantomsxr.com
